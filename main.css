@@ -1,0 +1,82 @@
+body{font-family: 'Dosis', sans-serif;}
+
+h1,h2,h3{font-weight: 900;
+font-size: 60px;}
+
+h4,h5,h6{font-weight: 700;}
+
+
+.btn-primary{
+    background-color: orange  /*!important*/; 
+     border-color: transparent;
+     color: white;
+     border-radius: 60%;
+ }
+
+ .btn-primary:hover{
+    background-color:rgb(180, 118, 2); 
+ }
+
+
+ .btn-secondary{
+     background: white;
+     color: orange;
+     border-radius: 80%;
+     border-color: orange;
+
+ }
+
+.btn-secondary:hover{
+    background-color:orange;
+    border-color: orange;
+
+}
+
+.btn-inline-primary {
+    background: black;
+    margin: 10px;
+    color: blanchedalmond;
+}
+ .nav-item{
+     font-display: bold;
+     font-weight: 800;
+     color-adjust: black;
+ }
+
+ .nav-item .active{
+     color: orange;
+
+ }
+
+ .home-content p{
+     color: plum;
+     font-display: bold;
+     font-size: 20px;
+ }
+
+
+
+
+ .for-compaines i{
+    width: 60px;
+    height: 60px;
+    border: orange 1px solid;
+    color: white;
+    border-radius: 50%;
+    background: orange;
+    place-items: center;
+ }
+
+ .job-seekers i{
+    width: 60px;
+    height: 60px;
+    border: orange 1px solid;
+    color: white;
+    border-radius: 50%;
+    background: orange;
+ }
+
+ 
+.footer i {
+    color: orange;
+}
