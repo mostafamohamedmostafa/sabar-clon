@@ -80,3 +80,13 @@ h4,h5,h6{font-weight: 700;}
 .footer i {
     color: orange;
 }
+
+.navbar{
+position: relative;}
+
+.job-seekers{
+    min-height: 660px;
+    background-image:url("../img/bg.jpg");
+    background-color: whitesmoke;
+
+}
